@@ -1,6 +1,6 @@
 # FOR ANYONE TRYING TO TEST THIS OUT: These are the env variables you need
 
-# Prisma
+# Prisma / postgresql
 DATABASE_URL=
 
 # Next Auth
