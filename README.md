@@ -11,4 +11,4 @@ as a callback in the discrod dev thing
 
 running `npm run dev`: clicking on a posts in dev mode has a huge loading time. Why?
 
-running (`npm run build` and `npm run start`) OR deploying on vercel: clicking on NEW post, results in a 404. Why?
+running (`npm run build` and `npm run start`) OR deploying on vercel: clicking on a NEW post, results in a 404. Why?
