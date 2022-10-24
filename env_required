@@ -1,0 +1,12 @@
+# FOR ANYONE TRYING TO TEST THIS OUT: These are the env variables you need
+
+# Prisma
+DATABASE_URL=
+
+# Next Auth
+NEXTAUTH_SECRET=somethingsomething,thisisfine
+NEXTAUTH_URL=http://localhost:3000
+
+# Next Auth Discord Provider
+DISCORD_CLIENT_ID=
+DISCORD_CLIENT_SECRET=
